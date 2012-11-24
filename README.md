@@ -1,4 +1,4 @@
 hello-git
 =========
 
-hello world!
+hello git! this is my first git.
